@@ -4,13 +4,6 @@ import java.util.Scanner;
 
 public class Client {
     public static void main(String[] args) {
-        //
-        //UserUtil.getUser(2);
-        //UserUtil.createUser("POlsja","holownia");
-        // UserUtil.updateUser(2,"Piotr","Ania");
-        //UserUtil.deleteUser(2);
-        //UserUtil.loginUser("email@wp.pl","1234678");
-        //UserUtil.loginUser("eve.holt@reqres.in","cityslicka");
         boolean ex = false;
         while (true) {
             if(ex) {
